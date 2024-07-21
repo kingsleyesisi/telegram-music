@@ -1,0 +1,23 @@
+body{
+    background-color: wheat;
+}
+
+.center{
+    margin: 100px auto;
+    text-align: center;
+    background-color: blue;
+    max-width: 500px;
+    min-height: 500px;
+    border-radius: 100%;
+    }
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    }
+audio{
+    display: none;
+}
+.secondaudio{
+    display: inline;
+}
